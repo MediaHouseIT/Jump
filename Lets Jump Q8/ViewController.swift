@@ -11,10 +11,10 @@ import UIKit
 class ViewController: UIViewController {
     
     
-    
-    @IBOutlet weak var forRentBtn: UIButton!
-    @IBOutlet weak var forSaleBtn: UIButton!
-    @IBOutlet weak var haflat: UIButton!
+   
+    @IBOutlet  var forRentBtn: UIButton!
+    @IBOutlet  var forSaleBtn: UIButton!
+    @IBOutlet  var haflat: UIButton!
     
     
     
