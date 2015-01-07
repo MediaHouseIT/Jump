@@ -11,7 +11,7 @@
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>76824C3BDCE8578457B06480102CE5F9D60BE073</key>
-		<string>https://bitbucket.org/mediahouse/lets-jump-q8.git</string>
+		<string>https://github.com/MediaHouseIT/jumb.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Lets Jump Q8.xcodeproj</string>
@@ -21,7 +21,7 @@
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://bitbucket.org/mediahouse/lets-jump-q8.git</string>
+	<string>https://github.com/MediaHouseIT/jumb.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>76824C3BDCE8578457B06480102CE5F9D60BE073</string>
 			<key>IDESourceControlWCCName</key>
-			<string>lets-jump-q8</string>
+			<string>jumb</string>
 		</dict>
 	</array>
 </dict>
