@@ -118,7 +118,7 @@
                                 </variation>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="7Bn-Uc-GYZ">
-                                <rect key="frame" x="24" y="232" width="130" height="124"/>
+                                <rect key="frame" x="25" y="232" width="130" height="124"/>
                                 <fontDescription key="fontDescription" name="GESSTwoMedium-Medium" family="GE SS Two" pointSize="18"/>
                                 <state key="normal" title="عروض" backgroundImage="ellipse4.png">
                                     <color key="titleColor" red="0.0" green="0.20000000000000001" blue="0.40000000000000002" alpha="1" colorSpace="calibratedRGB"/>
