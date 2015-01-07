@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		67B8CE1E1A5C9E5100161222 /* GE_SS_Two_Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 67B8CE1C1A5C9E5100161222 /* GE_SS_Two_Light.ttf */; };
+		67B8CE1F1A5C9E5100161222 /* GE_SS_Two_Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 67B8CE1C1A5C9E5100161222 /* GE_SS_Two_Light.ttf */; };
+		67B8CE201A5C9E5100161222 /* ge-ss-med.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 67B8CE1D1A5C9E5100161222 /* ge-ss-med.ttf */; };
+		67B8CE211A5C9E5100161222 /* ge-ss-med.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 67B8CE1D1A5C9E5100161222 /* ge-ss-med.ttf */; };
 		E2613F911A5C0CC1003C6ACC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2613F901A5C0CC1003C6ACC /* AppDelegate.swift */; };
 		E2613F931A5C0CC1003C6ACC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2613F921A5C0CC1003C6ACC /* ViewController.swift */; };
 		E2613F961A5C0CC1003C6ACC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2613F941A5C0CC1003C6ACC /* Main.storyboard */; };
@@ -51,6 +55,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		67B8CE1C1A5C9E5100161222 /* GE_SS_Two_Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = GE_SS_Two_Light.ttf; sourceTree = "<group>"; };
+		67B8CE1D1A5C9E5100161222 /* ge-ss-med.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ge-ss-med.ttf"; sourceTree = "<group>"; };
 		E2613F8B1A5C0CC1003C6ACC /* Lets Jump Q8.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Lets Jump Q8.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2613F8F1A5C0CC1003C6ACC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E2613F901A5C0CC1003C6ACC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -127,6 +133,8 @@
 		E2613F8D1A5C0CC1003C6ACC /* Lets Jump Q8 */ = {
 			isa = PBXGroup;
 			children = (
+				67B8CE1C1A5C9E5100161222 /* GE_SS_Two_Light.ttf */,
+				67B8CE1D1A5C9E5100161222 /* ge-ss-med.ttf */,
 				E2613FB01A5C0CED003C6ACC /* Images */,
 				E2613F901A5C0CC1003C6ACC /* AppDelegate.swift */,
 				E2613F921A5C0CC1003C6ACC /* ViewController.swift */,
@@ -290,6 +298,7 @@
 				E261404B1A5C27D6003C6ACC /* ellipse5.png in Resources */,
 				E26140561A5C2BC3003C6ACC /* HomeBackground.png in Resources */,
 				E2613FF91A5C1B34003C6ACC /* Screen Shot 2015-01-06 at 3.08.24 pm.png in Resources */,
+				67B8CE1E1A5C9E5100161222 /* GE_SS_Two_Light.ttf in Resources */,
 				E26140541A5C27D6003C6ACC /* Twitter.png in Resources */,
 				E26140471A5C27D6003C6ACC /* ellipse1.png in Resources */,
 				E26140501A5C27D6003C6ACC /* Instagram.png in Resources */,
@@ -309,6 +318,7 @@
 				E26140441A5C27D6003C6ACC /* AddBtn.png in Resources */,
 				E261404F1A5C27D6003C6ACC /* HomeLogo.png in Resources */,
 				E2613F981A5C0CC1003C6ACC /* Images.xcassets in Resources */,
+				67B8CE201A5C9E5100161222 /* ge-ss-med.ttf in Resources */,
 				E26140581A5C3C26003C6ACC /* orangeBack.jpg in Resources */,
 				E2613FB91A5C0CED003C6ACC /* cloudTR.png in Resources */,
 			);
@@ -318,6 +328,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				67B8CE1F1A5C9E5100161222 /* GE_SS_Two_Light.ttf in Resources */,
+				67B8CE211A5C9E5100161222 /* ge-ss-med.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
