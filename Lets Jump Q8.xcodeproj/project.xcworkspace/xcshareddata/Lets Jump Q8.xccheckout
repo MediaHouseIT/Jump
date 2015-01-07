@@ -14,11 +14,11 @@
 		<string>https://bitbucket.org/mediahouse/lets-jump-q8.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Lets Jump Q8.xcodeproj</string>
+	<string>archive/Lets Jump Q8.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>76824C3BDCE8578457B06480102CE5F9D60BE073</key>
-		<string>../..</string>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://bitbucket.org/mediahouse/lets-jump-q8.git</string>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>76824C3BDCE8578457B06480102CE5F9D60BE073</string>
 			<key>IDESourceControlWCCName</key>
-			<string>lets-jump-q8</string>
+			<string>Jump</string>
 		</dict>
 	</array>
 </dict>
