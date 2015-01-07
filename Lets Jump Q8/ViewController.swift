@@ -8,6 +8,16 @@
 
 import UIKit
 
+<<<<<<< HEAD
+class ViewController: UIViewController, UITableViewDelegate  {
+    
+    func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int{
+    
+    }
+    func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell{
+    
+    }
+=======
 class ViewController: UIViewController {
     
     
@@ -18,6 +28,7 @@ class ViewController: UIViewController {
     
     
     
+>>>>>>> 64358bb7c8e4120673c3d1b1d18df2435c404b29
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

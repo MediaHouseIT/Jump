@@ -7,10 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+<<<<<<< HEAD
+		E21B6C411A5CAA3300660F25 /* whatsapp2.png in Resources */ = {isa = PBXBuildFile; fileRef = E21B6C401A5CAA3300660F25 /* whatsapp2.png */; };
+=======
 		67B8CE1E1A5C9E5100161222 /* GE_SS_Two_Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 67B8CE1C1A5C9E5100161222 /* GE_SS_Two_Light.ttf */; };
 		67B8CE1F1A5C9E5100161222 /* GE_SS_Two_Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 67B8CE1C1A5C9E5100161222 /* GE_SS_Two_Light.ttf */; };
 		67B8CE201A5C9E5100161222 /* ge-ss-med.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 67B8CE1D1A5C9E5100161222 /* ge-ss-med.ttf */; };
 		67B8CE211A5C9E5100161222 /* ge-ss-med.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 67B8CE1D1A5C9E5100161222 /* ge-ss-med.ttf */; };
+>>>>>>> 64358bb7c8e4120673c3d1b1d18df2435c404b29
 		E2613F911A5C0CC1003C6ACC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2613F901A5C0CC1003C6ACC /* AppDelegate.swift */; };
 		E2613F931A5C0CC1003C6ACC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2613F921A5C0CC1003C6ACC /* ViewController.swift */; };
 		E2613F961A5C0CC1003C6ACC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2613F941A5C0CC1003C6ACC /* Main.storyboard */; };
@@ -55,8 +59,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
+		E21B6C401A5CAA3300660F25 /* whatsapp2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whatsapp2.png; sourceTree = "<group>"; };
+=======
 		67B8CE1C1A5C9E5100161222 /* GE_SS_Two_Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = GE_SS_Two_Light.ttf; sourceTree = "<group>"; };
 		67B8CE1D1A5C9E5100161222 /* ge-ss-med.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ge-ss-med.ttf"; sourceTree = "<group>"; };
+>>>>>>> 64358bb7c8e4120673c3d1b1d18df2435c404b29
 		E2613F8B1A5C0CC1003C6ACC /* Lets Jump Q8.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Lets Jump Q8.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2613F8F1A5C0CC1003C6ACC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E2613F901A5C0CC1003C6ACC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -182,6 +190,7 @@
 				E2613FB41A5C0CED003C6ACC /* Giraffe.png */,
 				E2613FB51A5C0CED003C6ACC /* grass.png */,
 				E2613FB61A5C0CED003C6ACC /* Logo.png */,
+				E21B6C401A5CAA3300660F25 /* whatsapp2.png */,
 			);
 			path = Images;
 			sourceTree = "<group>";
@@ -308,6 +317,7 @@
 				E26140511A5C27D6003C6ACC /* NavbarGredient.png in Resources */,
 				E261404C1A5C27D6003C6ACC /* ellipse6.png in Resources */,
 				E2613F961A5C0CC1003C6ACC /* Main.storyboard in Resources */,
+				E21B6C411A5CAA3300660F25 /* whatsapp2.png in Resources */,
 				E2613FB71A5C0CED003C6ACC /* cloudFree.png in Resources */,
 				E2613FBB1A5C0CED003C6ACC /* grass.png in Resources */,
 				E261404D1A5C27D6003C6ACC /* Footer.png in Resources */,
